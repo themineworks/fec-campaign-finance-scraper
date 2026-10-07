@@ -1,0 +1,15 @@
+{
+  "name": "fec-campaign-finance-scraper",
+  "version": "2.0.0",
+  "type": "module",
+  "description": "US federal candidates, committees & itemized donations. Python, Node.js and cURL clients for the FEC Campaign Finance Scraper on Apify, pay per result.",
+  "main": "fec_campaign_finance_scraper.mjs",
+  "scripts": {
+    "start": "node fec_campaign_finance_scraper.mjs"
+  },
+  "dependencies": {
+    "apify-client": "^2.9.0"
+  },
+  "license": "MIT",
+  "homepage": "https://themineworks.com/actors/fec-campaign-finance/"
+}
